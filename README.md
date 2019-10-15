@@ -2,6 +2,8 @@
 
 The project is build with webpack.
 
+Clone repo.
+
 The index.html file is in the root directory.
 
 My scss file path: src/scss/base.scss.
